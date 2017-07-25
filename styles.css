@@ -1,0 +1,39 @@
+/*Stlye sheet created by: Patricia Hicks, 7/10/17*/
+
+/*Style for body specifies a background color*/
+body {
+	background-color: #8F4CCC;
+}
+/*Style for the container element*/
+#container {
+	width: 95%;
+	margin-left: auto;
+}
+/*Style for the header element*/
+header {
+	font-family: britannic bold, forte;
+	margin-top: 0.4em;
+	color: #33FFCC;
+	padding: 0.6%;
+}
+/*Style for the nav element*/
+nav {
+	color: #33FFCC;
+	padding: 0.6%;
+}
+h2 {
+	font-family: baskerville old face;
+}
+h2 {
+	font-family: ar blanca;
+	color: #33FFCC;
+}
+li {
+	font-family: ar blanca;
+	color: #11CCD8;
+}
+h4 {
+	font-family: broadway;
+	color: #00B2FF;
+}
+
